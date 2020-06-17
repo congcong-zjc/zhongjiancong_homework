@@ -1,0 +1,2 @@
+# zhongjiancong_homework
+工程软件作业：随机生成10个100以内的数字并排序
