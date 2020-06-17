@@ -6,6 +6,8 @@
  *°æ  È¨£ºCopyright (c) 2020 Zhong Jiancong
  */
 
+ #include <assert.h>
+ #include <ctime>
  #include "Generate_arr.hpp"
  #include "Arr_length.hpp"
 

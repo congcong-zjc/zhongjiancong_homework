@@ -14,7 +14,9 @@
     （4）显示
     ****************************************************/
 
-
+#include <iostream>
+#include <ctime>
+#include <assert.h>
 #include "Generate_arr.hpp"
 #include "Sort_arr.hpp"
 #include "Show_arr.hpp"
@@ -25,7 +27,7 @@ using namespace std;
 int main()
 {
 	assert( ARR_LENGTH == 10);  //使用断言检验数组元素个数arr_length是否为10
-	int arr[ARR_LENGTH];        //创建一个长度为arr_length的数组
+	int arr[ARR_LENGTH]={0};        //创建一个长度为arr_length的数组，并初始化为0
 
 	Generate_arr(arr , ARR_LENGTH);          //生成10个100以内的随机数
 
