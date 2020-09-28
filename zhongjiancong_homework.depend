@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1592412990 source:d:\c++\code\dicengjiagouzuoye\zhongjiancong_homework\main.cpp
+	"Generate_arr.hpp"
+	"Sort_arr.hpp"
+	"Show_arr.hpp"
+	"Arr_length.hpp"
+
+1592416496 d:\c++\code\dicengjiagouzuoye\zhongjiancong_homework\generate_arr.hpp
+
+1592412961 d:\c++\code\dicengjiagouzuoye\zhongjiancong_homework\sort_arr.hpp
+	<assert.h>
+
+1592416496 d:\c++\code\dicengjiagouzuoye\zhongjiancong_homework\show_arr.hpp
+
+1592412961 d:\c++\code\dicengjiagouzuoye\zhongjiancong_homework\arr_length.hpp
+
+1592416496 source:d:\c++\code\dicengjiagouzuoye\zhongjiancong_homework\generate_arr.cpp
+	<ctime>
+	<cstdlib>
+	<assert.h>
+	"Generate_arr.hpp"
+	"Arr_length.hpp"
+
+1592416638 source:d:\c++\code\dicengjiagouzuoye\zhongjiancong_homework\show_arr.cpp
+	<iostream>
+	<assert.h>
+	<ctime>
+	"Show_arr.hpp"
+	"Arr_length.hpp"
+
+1592416661 source:d:\c++\code\dicengjiagouzuoye\zhongjiancong_homework\sort_arr.cpp
+	<assert.h>
+	<ctime>
+	"Generate_arr.hpp"
+	"Arr_length.hpp"
+
